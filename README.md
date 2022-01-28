@@ -1,4 +1,4 @@
-# PYTHON FOR EVERYBODY SPECIALISATION ON COURSERA.
+# PYTHON FOR EVERYBODY SPECIALIZATION ON COURSERA.
 Python For Everybody specialization course is offered by University of Michigan. I completed this specialization course on the Coursera Platform.
 
 ## About the Repository
